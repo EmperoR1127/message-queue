@@ -30,4 +30,4 @@ jobs:
           distribution: 'temurin'
           cache: maven
       - name: Lint test
-        run: ./mvnw -B -ntp ./mvnw com.spotify.fmt:fmt-maven-plugin:check
+        run: ./mvnw com.spotify.fmt:fmt-maven-plugin:check
