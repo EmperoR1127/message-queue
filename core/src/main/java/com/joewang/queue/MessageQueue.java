@@ -1,4 +1,4 @@
-package com.joewang;
+package com.joewang.queue;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
