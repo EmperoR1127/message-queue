@@ -1,4 +1,4 @@
-package com.joewang;
+package com.joewang.queue;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
